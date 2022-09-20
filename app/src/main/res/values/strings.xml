@@ -4,5 +4,6 @@
     <string name="dolist">DoList</string>
     <string name="name">Name</string>
     <string name="submit">Submit</string>
-    <string name="start">start</string>
+    <string name="seeTask">See Tasks</string>
+    <string name="greetings">Hi %1$s!</string>
 </resources>

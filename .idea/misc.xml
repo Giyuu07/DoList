@@ -6,7 +6,10 @@
         <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.167" />
         <entry key="app/src/main/res/drawable/rounded_button_bg.xml" value="0.167" />
         <entry key="app/src/main/res/drawable/rounded_edititext_bg.xml" value="0.1925" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.2753623188405797" />
+        <entry key="app/src/main/res/layout/activity_list_item.xml" value="0.2753623188405797" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/list_item_view.xml" value="0.1625" />
       </map>
     </option>
   </component>
