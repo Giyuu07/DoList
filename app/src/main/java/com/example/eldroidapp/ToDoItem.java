@@ -1,22 +1,14 @@
 package com.example.eldroidapp;
+;
 
 public class ToDoItem {
-    private int itemID;
     private String itemToDo;
     private boolean itemStatus;
 
-    public ToDoItem(int itemID, String itemToDo, boolean itemStatus) {
-        this.itemID = itemID;
+    public ToDoItem(String itemToDo, boolean itemStatus) {
         this.itemToDo = itemToDo;
         this.itemStatus = itemStatus;
-    }
 
-    public int getItemID() {
-        return itemID;
-    }
-
-    public void setItemID(int itemID) {
-        this.itemID = itemID;
     }
 
     public String getItemToDo() {
